@@ -11,7 +11,7 @@ const portfolioData = [
     {
         image: portfolioimg2,
         title: 'Note Taker App',
-        github: 'https://github.com/danimalcrackrz/note-taker-app',
+        github: 'https://github.com/danimalcrackrz/note-taker',
         demo:'#'
     },
 ]
