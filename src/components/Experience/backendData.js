@@ -19,6 +19,10 @@ const backendData = [
         skill: 'MySQL',
         level: 'Basic'
     },
+    {
+        skill: 'NextJS',
+        level: 'Intermediate'
+    },
 ]
 
 export default backendData

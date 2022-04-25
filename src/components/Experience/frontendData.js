@@ -23,6 +23,10 @@ const frontendData = [
         skill: 'React',
         level: 'Experienced'
     },
+    {
+        skill: 'MaterialUI',
+        level: 'Experienced'
+    },
 ]
 
 export default frontendData
